@@ -43,12 +43,29 @@ button:active {
     background-color: rgb(15, 15, 15);
 }
 
+button:hover {
+    background-color: rgb(22, 22, 22);
+}
+
 .naranja {
     background-color: orange;
 }
 
 .naranja:active {
     background-color: rgba(255, 166, 0, 0.74);
+}
+
+.naranja:hover {
+    background-color: rgb(255, 128, 0);
+}
+
+
+.botonIgual {
+    background-color: rgb(0, 114, 152);
+}
+
+.botonIgual:hover {
+    background-color: rgb(0, 53, 152);
 }
 
 .display {
